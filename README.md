@@ -1,4 +1,4 @@
-# Together-For-You-Pre-internship-Project
+# Mentorship-Engagement Platform (TFY-Aligned)
 This project is a mobile mentorship engagement platform designed to support nonprofits working with youth and families. The app focuses on improving mentor-mentee consistency, accountability, and outcomes through structured check-ins, goal-tracking, and engagement insights.  
 
 The project demonstrates:
