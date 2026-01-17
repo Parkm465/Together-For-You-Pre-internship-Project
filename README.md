@@ -7,6 +7,45 @@ The project demonstrates:
 * Ethical, lightweight use of data to support human-centered program
 * Real-world software development practices aligned with social impact work
 
+## Project Checklist
+### Day 1: Planning & Foundations  
+- [X] Define project scope & MVP goals
+- [X] Document core user roles and flows (login -> dashboard -> check-in -> goals)
+- [ ] Initialize React Native/Expo project
+- [ ] Setup Firebase project (Auth + Firestore)
+- [X] Write initial ReadMe with mission and scopes
+### Day 2: App Structure & Navigation
+- [ ]  Implement app navigation (auth flow + main tabs)
+- [ ]  Create base screen components
+- [ ]  Build reusable UI Components
+- [ ]  Add placeholder screens for key features
+### Day 3: Authentication & User Profiles
+- [ ] Implement Firebase Authentication (email/password)
+- [ ] Add role-based user profille (Mentor/Mentee)
+- [ ] Persist profile data in Firestore
+- [ ] Enable profile creation and editing
+### Day 4: Mentorship Core
+- [ ] Implement mentor/mentee relationship model
+- [ ] Allow users to view matched mentor/mentee profiles
+- [ ] Store mentorship links in Firestore
+- [ ] Handle edge cases (missing profile data)
+### Day 5: Weekly Check In
+- [ ] Build weekly check-in form (mood, wins, challenges)
+- [ ] Save check-ins to Firestore
+- [ ] Display historical check-ins timeline view
+- [ ] Enable mentors to review check-ins
+### Day 6: Goals & Engagement Signals
+- [ ] Implement goal creation and updates
+- [ ] Track goal progress over time
+- [ ] Add basic engagement indicators (e.g., missed check-ins)
+- [ ] Polish UI and improve usability
+### Day 7: Testing, Documentation, & Demo
+- [ ] Manually test all core user flows
+- [ ] Refactor code for readability and consistency
+- [ ] Finalize README and documentation
+- [ ] Add screenshots or demo GIFs
+- [ ] Prepare short project summary for sharing
+
 ## Problem Statement
 Non-profit mentorship programs rely on:  
 * Manual check-ins
@@ -65,43 +104,6 @@ These are documented as future enhancements
 * Admin analytics dashboard
 * Push notification reminders
 * Accessibility audits and improvements
-## Project Checklist
-### Day 1: Planning & Foundations  
-- [X] Define project scope & MVP goals
-- [ ] Document core user roles and flows (login -> dashboard -> check-in -> goals)
-- [ ] Initialize React Native/Expo project
-- [ ] Setup Firebase project (Auth + Firestore)
-- [X] Write initial ReadMe with mission and scopes
-### Day 2: App Structure & Navigation
-- [ ]  Implement app navigation (auth flow + main tabs)
-- [ ]  Create base screen components
-- [ ]  Build reusable UI Components
-- [ ]  Add placeholder screens for key features
-### Day 3: Authentication & User Profiles
-- [ ] Implement Firebase Authentication (email/password)
-- [ ] Add role-based user profille (Mentor/Mentee)
-- [ ] Persist profile data in Firestore
-- [ ] Enable profile creation and editing
-### Day 4: Mentorship Core
-- [ ] Implement mentor/mentee relationship model
-- [ ] Allow users to view matched mentor/mentee profiles
-- [ ] Store mentorship links in Firestore
-- [ ] Handle edge cases (missing profile data)
-### Day 5: Weekly Check In
-- [ ] Build weekly check-in form (mood, wins, challenges)
-- [ ] Save check-ins to Firestore
-- [ ] Display historical check-ins timeline view
-- [ ] Enable mentors to review check-ins
-### Day 6: Goals & Engagement Signals
-- [ ] Implement goal creation and updates
-- [ ] Track goal progress over time
-- [ ] Add basic engagement indicators (e.g., missed check-ins)
-- [ ] Polish UI and improve usability
-### Day 7: Testing, Documentation, & Demo
-- [ ] Manually test all core user flows
-- [ ] Refactor code for readability and consistency
-- [ ] Finalize README and documentation
-- [ ] Add screenshots or demo GIFs
-- [ ] Prepare short project summary for sharing
+
 ## Why This Project Matters
 This project is designed to reflect real nonprofit workflows, where technology supports, rather than replaces human relationships. It prioritizes trust, consistency, and measurable outcomes while remaining simple, maintainable, and scalable.
