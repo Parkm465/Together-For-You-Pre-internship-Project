@@ -67,7 +67,7 @@ These are documented as future enhancements
 * Accessibility audits and improvements
 ## Project Checklist
 ### Day 1: Planning & Foundations  
-- [ ] Define project scope & MVP goals
+- [X] Define project scope & MVP goals
 - [ ] Document core user roles and flows (login -> dashboard -> check-in -> goals)
 - [ ] Initialize React Native/Expo project
 - [ ] Setup Firebase project (Auth + Firestore)
