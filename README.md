@@ -11,8 +11,8 @@ The project demonstrates:
 ### Day 1: Planning & Foundations  
 - [X] Define project scope & MVP goals
 - [X] Document core user roles and flows (login -> dashboard -> check-in -> goals)
-- [ ] Initialize React Native/Expo project
-- [ ] Setup Firebase project (Auth + Firestore)
+- [X] Initialize React Native/Expo project
+- [X] Setup Firebase project (Auth + Firestore)
 - [X] Write initial ReadMe with mission and scopes
 ### Day 2: App Structure & Navigation
 - [ ]  Implement app navigation (auth flow + main tabs)
